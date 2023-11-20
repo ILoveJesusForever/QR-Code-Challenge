@@ -1,1 +1,2 @@
-# QR-Code-Challenge
+# Frontendmentor-challege1
+ challenge1
